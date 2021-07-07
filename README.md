@@ -1,4 +1,4 @@
-# kmu-risiko-management
+# Leichtgewichtiger Risikomanagementprozess für KMU
  In diesem Repository findet sich ein erster Ansatz für das Risiko Management in KMUs. Die Inhalte in diesem Repository sollen als erster Anhaltspunkt gelten.
  Sie sind für jedes Unternehmen individuell anzupassen.
 

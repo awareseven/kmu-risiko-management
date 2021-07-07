@@ -4,4 +4,4 @@
 
 # Struktur dieses Repositories
 
-In der Datei [General](https://github.com/awareseven/kmu-risiko-management/blob/main/General.md) finden Sie den groben Ablauf zum Risikomanagement.
+In der Datei [General](https://github.com/awareseven/kmu-risiko-management/blob/main/General.md) finden Sie den groben Ablauf zum Risikomanagement. Beachten Sie bitte, dass Sie den Prozess für Ihr Unternehmen anpassen müssen.
